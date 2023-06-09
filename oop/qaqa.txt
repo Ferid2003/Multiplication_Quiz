@@ -1,0 +1,115 @@
+
+
+Question 1: What is 6 * 5?
+Your answer 30
+Time elapsed: 2 seconds
+
+Question 2: What is 5 * 8?
+Your answer 40
+Time elapsed: 1 seconds
+
+Question 3: What is 7 * 4?
+Your answer 28
+Time elapsed: 1 seconds
+
+Question 4: What is 1 * 7?
+Your answer 1
+Time elapsed: 1 seconds
+
+Question 5: What is 6 * 9?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 6: What is 5 * 9?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 7: What is 4 * 5?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 8: What is 6 * 9?
+Your answer 1
+Time elapsed: 0 seconds
+
+
+Question 1: What is 7 * 6?
+Your answer 1
+Time elapsed: 4 seconds
+
+Question 2: What is 10 * 5?
+Your answer 1
+Time elapsed: 1 seconds
+
+Question 3: What is 6 * 9?
+Your answer 1
+Time elapsed: 1 seconds
+
+
+
+
+Question 1: What is 9 * 3?
+Your answer 1
+Time elapsed: 4 seconds
+
+Question 2: What is 1 * 6?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 3: What is 1 * 1?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 4: What is 1 * 4?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 5: What is 2 * 8?
+Your answer 1
+Time elapsed: 0 seconds
+
+
+
+
+
+
+
+Question 1: What is 9 * 4?
+Your answer 1
+Time elapsed: 2 seconds
+
+Question 2: What is 1 * 8?
+Your answer 1
+Time elapsed: 2 seconds
+
+Question 3: What is 1 * 1?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 4: What is 7 * 9?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 5: What is 6 * 4?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 6: What is 1 * 6?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 7: What is 8 * 1?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 8: What is 7 * 5?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 9: What is 1 * 9?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 10: What is 4 * 10?
+Your answer 1
+Time elapsed: 0 seconds

@@ -1,0 +1,13 @@
+
+
+Question 1: What is 7 * 2?
+Your answer 14
+Time elapsed: 1 seconds
+
+Question 2: What is 5 * 4?
+Your answer 20
+Time elapsed: 1 seconds
+
+Question 3: What is 6 * 2?
+Your answer 12
+Time elapsed: 1 seconds

@@ -1,0 +1,74 @@
+
+
+Question 1: What is 10 * 7?
+Your answer 70
+Time elapsed: 2 seconds
+
+Question 2: What is 8 * 9?
+Your answer 72
+Time elapsed: 1 seconds
+
+Question 3: What is 10 * 5?
+Your answer 50
+Time elapsed: 1 seconds
+
+Question 4: What is 5 * 6?
+Your answer 30
+Time elapsed: 1 seconds
+
+Question 5: What is 3 * 8?
+Your answer 24
+Time elapsed: 1 seconds
+
+Question 6: What is 2 * 1?
+Your answer 1
+Time elapsed: 1 seconds
+
+Question 7: What is 10 * 1?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 8: What is 5 * 10?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 9: What is 7 * 7?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 10: What is 10 * 4?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 11: What is 4 * 10?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 12: What is 9 * 9?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 13: What is 8 * 10?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 14: What is 9 * 10?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 15: What is 1 * 10?
+Your answer 1
+Time elapsed: 0 seconds
+
+
+Question 1: What is 6 * 3?
+Your answer 1
+Time elapsed: 1 seconds
+
+Question 2: What is 10 * 1?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 3: What is 10 * 8?
+Your answer 1
+Time elapsed: 0 seconds

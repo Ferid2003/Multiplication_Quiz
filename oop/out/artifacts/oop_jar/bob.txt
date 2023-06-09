@@ -1,0 +1,13 @@
+
+
+Question 1: What is 10 * 10?
+Your answer 1
+Time elapsed: 2 seconds
+
+Question 2: What is 1 * 2?
+Your answer 2
+Time elapsed: 1 seconds
+
+Question 3: What is 10 * 1?
+Your answer 10
+Time elapsed: 1 seconds

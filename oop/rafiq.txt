@@ -1,0 +1,69 @@
+
+Question 1: What is 3 * 1?
+Your answer 3
+Time elapsed: 2 seconds
+
+Question 2: What is 2 * 4?
+Your answer 8
+Time elapsed: 1 seconds
+
+Question 3: What is 7 * 8?
+Your answer 56
+Time elapsed: 1 seconds
+
+Question 4: What is 9 * 7?
+Your answer 72
+Time elapsed: 3 seconds
+
+Question 5: What is 6 * 3?
+Your answer 18
+Time elapsed: 1 seconds
+
+Question 6: What is 3 * 1?
+Your answer 3
+Time elapsed: 1 seconds
+
+Question 7: What is 6 * 6?
+Your answer 36
+Time elapsed: 2 seconds
+
+Question 8: What is 4 * 1?
+Your answer 4
+Time elapsed: 1 seconds
+
+Question 9: What is 2 * 3?
+Your answer 6
+Time elapsed: 1 seconds
+
+Question 10: What is 2 * 5?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 11: What is 10 * 2?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 12: What is 5 * 5?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 13: What is 5 * 2?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 14: What is 2 * 10?
+Your answer 1
+Time elapsed: 0 seconds
+
+Question 15: What is 3 * 8?
+Your answer 1
+Time elapsed: 0 seconds
+
+
+Question 1: What is 9 * 6?
+Your answer 1
+Time elapsed: 1 seconds
+
+Question 2: What is 3 * 5?
+Your answer 15
+Time elapsed: 2 seconds
